@@ -1,8 +1,0 @@
-version: 1.4.0
-files:
-  - url: MSMP.Launcher-setup-1.4.0.exe
-    sha512: k8uU50Jh4VsocdaKAzrSLgCADbKfrAPcudH4JMTPP2rE3sqRICRP/z/OZ0C0HSAujKUdHv9Qkltb97QfPplHgQ==
-    size: 77605513
-path: MSMP.Launcher-setup-1.4.0.exe
-sha512: k8uU50Jh4VsocdaKAzrSLgCADbKfrAPcudH4JMTPP2rE3sqRICRP/z/OZ0C0HSAujKUdHv9Qkltb97QfPplHgQ==
-releaseDate: '2023-12-09T19:32:13.125Z'
